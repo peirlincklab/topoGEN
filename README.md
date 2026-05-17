@@ -4,7 +4,8 @@ TopoGEN is a framework that integrates three-dimensional image-informed fiber ne
 ![Abstract](figures/abstract.jpg)
 
 ## Copyright
-Copyright (c) Sara Cardona, PhD Researcher, ME, TU Delft (2025)
+Copyright (c) Sara Cardona, Mathias Peirlinck, Behrooz Fereidoonnezhad
+Mechanical Engineering, TU Delft (2025)
 
 When using this work, please cite:
 https://doi.org/10.1016/j.jmps.2025.106257
